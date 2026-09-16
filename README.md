@@ -5,7 +5,8 @@ A Flutter application that demonstrates a reliable and predictable call lifecycl
 Call Lifecycle
 
 The application manages the following states:
-
+text
+```
 IDLE
  │
  │ Start Call
@@ -42,9 +43,11 @@ CONNECTED
  │                CONNECTED                        FAILED
  │
  └── End Call ───────────────────► ENDED
-
+```
 
 Project Structure
+text ```
+
 lib/
 │
 ├── feature/
@@ -76,3 +79,5 @@ lib/
 │               └── call_screen.dart
 │
 └── main.dart
+```
+
