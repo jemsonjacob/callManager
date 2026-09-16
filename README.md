@@ -46,7 +46,8 @@ CONNECTED
 ```
 
 Project Structure
-text ```
+text 
+```
 
 lib/
 │
@@ -79,5 +80,6 @@ lib/
 │               └── call_screen.dart
 │
 └── main.dart
+
 ```
 
